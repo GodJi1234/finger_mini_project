@@ -1,1 +1,1 @@
-# finger_nimi_project
+# finger_mini_project
